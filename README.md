@@ -12,7 +12,7 @@ This project aims on cleaning the dataset, analyze the given dataset, and mining
 - Module 2: Visualizing data using Power bi.
 
 
-# Questioned Answered 
+# Question Answered 
 
 - Which apps have the highest rating in the given available dataset?
 
